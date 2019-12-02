@@ -36,12 +36,6 @@ header h2 {
     background-color: #60106B;
 }
 
-.tab-content {
-    border: 1px solid #ddd;
-    border-top: none;
-    padding: 10px;
-}
-
 .modal-content {
     color: black;
 }
